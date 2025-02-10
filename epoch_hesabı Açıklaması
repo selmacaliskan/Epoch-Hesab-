@@ -54,3 +54,4 @@ time_t:
 
 time_t, Unix epoch zamanını saniye cinsinden temsil etmek için kullanılan bir veri türüdür. mktime ve difftime fonksiyonları bu türdeki verilerle çalışır.
 Bu kütüphane ve fonksiyonlar, tarihler arası hesaplamaları, tarihleri epoch zamanına dönüştürmeyi ve zaman farklarını hesaplamayı sağlar.
+
