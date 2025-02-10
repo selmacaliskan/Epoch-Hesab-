@@ -28,19 +28,30 @@ Program, `time.h` kütüphanesini kullanarak tarih ve zaman işlemleri gerçekle
 
 ## Örnek
 utfen bir gun giriniz (1-31): 15
+
 Lutfen bir ay giriniz (1-12): 05
+
 Lutfen bir yil giriniz: 2024
+
 Lutfen bir saat giriniz (0-23): 10
+
 Lutfen bir dakika giriniz (0-59): 30
+
 Lutfen bir saniye giriniz (0-59): 00
 
 Ikinci tarihi giriniz:
 Lutfen bir gun giriniz (1-31): 20
+
 Lutfen bir ay giriniz (1-12): 05
+
 Lutfen bir yil giriniz: 2024
+
 Lutfen bir saat giriniz (0-23): 12
+
 Lutfen bir dakika giriniz (0-59): 00
+
 Lutfen bir saniye giriniz (0-59): 00
+
 
 Tarih farkinin epoch degeri: 12600 saniye
 
